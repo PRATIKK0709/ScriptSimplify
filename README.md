@@ -1,4 +1,4 @@
-# Useful-scripts
+# ScriptSimplify
 
 
 This GitHub repository contains a collection of useful scripts that can simplify various tasks and improve efficiency in your daily life. These scripts cover a range of functionalities and are designed to be easy to use and customize to suit your specific needs.

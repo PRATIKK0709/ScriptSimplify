@@ -6,3 +6,4 @@ This GitHub repository contains a collection of useful scripts that can simplify
 Explore the repository to find scripts that can save you time and make your life easier. Feel free to browse, use, and contribute to this collection as needed.
 
 If you have any questions or suggestions, please don't hesitate to reach out.
+
